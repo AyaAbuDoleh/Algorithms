@@ -1,1 +1,1 @@
-SOrting algorithms, complexity study
+Sorting algorithms, complexity study
